@@ -61,7 +61,7 @@ Moscow, Russia, 15170
 SQL Queries:
 
 SELECT  v2productcategory as p_types, country, city
-FROM a_all_sessions
+FROM all_sessions
 where (
 	v2productcategory is not null 
 		and v2productcategory !='not available in demo dataset' 
@@ -76,7 +76,7 @@ ORDER BY p_types
 
 
 Answer:
-most products ordered are assessories related
+most products ordered are apparel/assessories related
 
 
 
