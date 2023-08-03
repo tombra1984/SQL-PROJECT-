@@ -14,6 +14,7 @@ Analize the data with queries to specific questions to generate answers
 Results
 
 - The data showed the product that generated the most and least revenue amoung all the products being sold
+  
 identifying the products that had the highest and least orders from the site through the combination of data from the sales_by_product table which tells if the product was sold or not.
 
 -It also shows the city with the most and least product patronage 
