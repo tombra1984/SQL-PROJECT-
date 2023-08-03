@@ -24,6 +24,7 @@ Challenges
 -There were technical issues associated with loading the data e.g security and permission surrounding the dataset.
 
 -Understanding the header names of the columns and what they represented was challenging during creating the tables associated with the dataset i.e data type.
+
 -identifying how the tables were related was a major challenge.
 
 Future Goals
